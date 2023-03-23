@@ -1,0 +1,329 @@
+{
+    "intents": [
+        {
+            "tag": "loneliness",
+            "patterns": [
+                "I am feeling lonely",
+                "I am so lonely",
+                "I feel so lonely",
+                "I don't have anyone",
+                "I feel like no one really understands me, and it's isolating.",
+                "I'm missing human connection and feeling like I have no one to talk to.",
+                "It's tough to see others enjoying time with friends and family when I feel so alone.",
+                "I wish I had someone to share my thoughts and feelings with.",
+                "The silence and lack of interaction is starting to feel suffocating.",
+                "I'm feeling disconnected from the world around me and unsure of how to change that.",
+                "I'm struggling to find a sense of belonging and feel like I don't fit in anywhere.",
+                "It's hard to motivate myself to do anything when I feel so lonely.",
+                "I'm longing for a sense of community and the support that comes with it.",
+                "I'm feeling like I'm stuck in a cycle of loneliness that's hard to break out of."
+            ],
+            "responses": [
+                "The Lonely City: Adventures in the Art of Being Alone by Olivia Laing",
+                "The Anatomy of Loneliness: How to Find Your Way Back to Connection by Teal Swan",
+                "Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions by Johann Hari",
+                "The Noonday Demon: An Atlas of Depression by Andrew Solomon",
+                "The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle",
+                "Man's Search for Meaning by Viktor E. Frankl",
+                "The Art of Asking: How I Learned to Stop Worrying and Let People Help by Amanda Palmer",
+                "The Alchemist by Paulo Coelho",
+                "Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain"
+            ]
+        },
+        {
+            "tag": "Overwhelm",
+            "patterns": [
+                "I'm feeling overwhelmed and just need some space.",
+                "I'm feeling lost and don't know what to do.",
+                "I feel like I have too much on my plate and don't know where to start.",
+                "Everything is just too much right now, and I can't seem to keep up.",
+                "I'm struggling to balance all of my responsibilities and feeling like I'm falling short.",
+                "The stress is just too much to handle, and I'm not sure how much more I can take.",
+                "I'm feeling paralyzed by my to-do list and don't even know where to begin.",
+                "It seems like everything is going wrong, and I can't catch a break.",
+                "I feel like I'm drowning in my own thoughts and emotions.",
+                "I'm so tired and burned out that I can't seem to find any motivation.",
+                "I'm feeling stuck and like there's no way out of this situation.",
+                "I'm completely overwhelmed by the challenges in my life right now.",
+                "I'm feeling hopeless and can't seem to see the light at the end of the tunnel."
+            ],
+            "responses": [
+                "The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle",
+                "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey",
+                "Essentialism: The Disciplined Pursuit of Less by Greg McKeown",
+                "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear",
+                "Getting Things Done: The Art of Stress-Free Productivity by David Allen",
+                "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by Gary Keller and Jay Papasan",
+                "The Joy of Missing Out: Live More by Doing Less by Tonya Dalton",
+                "The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich by Timothy Ferriss",
+                "Do Less: A Revolutionary Approach to Time and Energy Management for Busy Moms by Kate Northrup",
+                "The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It by Kelly McGonigal"
+            ]
+        },
+        {
+            "tag": "General sadness",
+            "patterns": [
+                "I feel down",
+                "I feel sad",
+                "I'm finding it hard to find joy in the things that used to make me happy.",
+                "I'm struggling to get out of bed and face the day.",
+                "I feel like I'm carrying a heavy weight around with me all the time.",
+                "I'm experiencing a deep sense of sadness that I can't seem to shake off.",
+                "I feel like I'm stuck in a dark place with no way out.",
+                "I'm feeling numb and disconnected from my emotions.",
+                "I'm finding it difficult to focus on anything because my mind is clouded with sadness.",
+                "I'm struggling to find the energy to do anything because of how down I feel.",
+                "I feel like I'm stuck in a rut and can't seem to get out of it.",
+                "I'm feeling a deep sense of loss and sadness that's hard to put into words.",
+                "I am sad",
+                "I feel empty"
+            ],
+            "responses": [
+                "The Noonday Demon: An Atlas of Depression by Andrew Solomon",
+                "Feeling Good: The New Mood Therapy by David D. Burns",
+                "The Year of Magical Thinking by Joan Didion",
+                "The Happiness Trap: How to Stop Struggling and Start Living: A Guide to ACT by Russ Harris"
+            ]
+        },
+        {
+            "tag": "Emotional distress",
+            "patterns": [
+                "I'm feeling really down today.",
+                "I'm feeling sad and can't seem to shake it off.",
+                "I'm feeling low and just need some time to myself.",
+                "I'm not myself lately and feel really sad.",
+                "I'm feeling blue and can't seem to find any joy.",
+                "I'm feeling really emotional and don't know why.",
+                "I'm feeling heartbroken and can't stop crying."
+            ],
+            "responses": [
+                "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma by Bessel van der Kolk",
+                "Running on Empty: Overcome Your Childhood Emotional Neglect by Jonice Webb",
+                "Mind Over Mood: Change How You Feel by Changing the Way You Think by Dennis Greenberger and Christine A. Padesky",
+                "Trauma and Recovery: The Aftermath of Violence--From Domestic Abuse to Political Terror by Judith Herman"
+            ]
+        },
+        {
+            "tag": "Work stress",
+            "patterns": [
+                "I'm feeling burnt out and exhausted from work.",
+                "I'm struggling to cope with everything that's going on.",
+                "I'm feeling like I have too much on my plate.",
+                "I'm feeling like I can't keep up with everything."
+            ],
+            "responses": [
+                "The 5 AM Club: Own Your Morning, Elevate Your Life by Robin Sharma",
+                "The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr and Tony Schwartz",
+                "The Stress Solution: The 4 Steps to Reset Your Body, Mind, Relationships and Purpose by Dr. Rangan Chatterjee",
+                "Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink"
+            ]
+        },
+        {
+            "tag": "Academic stress",
+            "patterns": [
+                "I'm so stressed out about my exams.",
+                "I have so many assignments due and not enough time to complete them.",
+                "I'm feeling overwhelmed with schoolwork."
+            ],
+            "responses": [
+                "How to Read a Book by Mortimer Adler and Charles Van Doren",
+                "Make It Stick: The Science of Successful Learning by Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel",
+                "A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) by Barbara Oakley",
+                "Deep Work: Rules for Focused Success in a Distracted World by Cal Newport"
+            ]
+        },
+        {
+            "tag": "Relationship stress",
+            "patterns": [
+                "I'm stressed out about my relationship with my partner/friend/family member.",
+                "I'm having trouble communicating with my partner/friend/family member.",
+                "I'm feeling like I'm not being heard or understood by my partner/friend/family member."
+            ],
+            "responses": [
+                "Hold Me Tight: Seven Conversations for a Lifetime of Love  by Sue Johnson",
+                "The 5 Love Languages: The Secret to Love that Lasts by Gary Chapman",
+                "Attached: The New Science of Adult Attachment and How It Can Help You Find - and Keep - Love by Amir Levine and Rachel Heller",
+                "Nonviolent Communication: A Language of Life by Marshall B. Rosenberg"
+            ]
+        },
+        {
+            "tag": "General stress",
+            "patterns": [
+                "I'm feeling like I'm at my breaking point.",
+                "I'm feeling like I need a break.",
+                "I'm feeling really stressed out right now.",
+                "I'm under a lot of pressure and feeling overwhelmed.",
+                "I'm really anxious and don't know how to calm down.",
+                "I'm feeling tense and can't seem to relax."
+            ],
+            "responses": [
+                "Why Zebras Don't Get Ulcers: An Updated Guide to Stress, Stress Related Diseases, and Coping by Robert M. Sapolsky",
+                "The Relaxation Response by Herbert Benson and Miriam Z. Klipper",
+                "Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness by Jon Kabat-Zinn",
+                "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma by Bessel van der Kolk"
+            ]
+        },
+        {
+            "tag": "worthless",
+            "patterns": [
+                "I feel so worthless.",
+                "No one likes me.",
+                "I can't do anything.",
+                "I am so useless",
+                "Nothing makes sense anymore",
+                "I feel like I'm not good enough.",
+                "I'm feeling like a failure.",
+                "I feel like I'm a burden on everyone.",
+                "I'm feeling like I'm not deserving of love or respect.",
+                "I feel like I can't do anything right.",
+                "I'm feeling like I'm not valuable to anyone.",
+                "I'm feeling like I'm not contributing anything meaningful.",
+                "I'm feeling like I'm a disappointment to others.",
+                "I'm feeling like I'm a waste of space.",
+                "I'm feeling like I'm not important."
+            ],
+            "responses": [
+                "The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are by Brené Brown",
+                "Feeling Good: The New Mood Therapy by David D. Burns",
+                "The Mindful Path to Self-Compassion: Freeing Yourself from Destructive Thoughts and Emotions by Christopher Germer",
+                "The Self-Esteem Workbook by Glenn R. Schiraldi"
+            ]
+        },
+        {
+            "tag": "depressed",
+            "patterns": [
+                "I can't take it anymore",
+                "I am so depressed",
+                "I think i'm depressed.",
+                "I have depression",
+                "I'm feeling really sad and don't know why.",
+                "I'm feeling like I don't have any energy or motivation.",
+                "I'm feeling like I can't enjoy anything anymore.",
+                "I'm feeling hopeless and like things will never get better.",
+                "I'm feeling like nothing matters.",
+                "I'm feeling like I'm stuck in a rut.",
+                "I'm feeling like I'm a burden on others.",
+                "I'm feeling like I just want to stay in bed all day.",
+                "I'm feeling like I'm not myself anymore.",
+                "I'm feeling like life is just too hard to handle."
+            ],
+            "responses": [
+                "Feeling Good: The New Mood Therapy by David D. Burns",
+                "The Noonday Demon: An Atlas of Depression by Andrew Solomon",
+                "Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions by Johann Hari",
+                "The Mindful Way through Depression: Freeing Yourself from Chronic Unhappiness by Mark Williams, John Teasdale, Zindel Segal, and Jon Kabat-Zinn"
+            ]
+        },
+        {
+            "tag": "anxious",
+            "patterns": [
+                "I feel so anxious.",
+                "I'm so anxious because of ",
+                "I'm feeling really anxious right now and don't know how to calm down.",
+                "I'm feeling really nervous and jittery.",
+                "I'm feeling like something bad is going to happen.",
+                "I'm feeling like I'm in danger, even though I know I'm not.",
+                "I'm feeling like I can't breathe properly.",
+                "I'm feeling like I'm losing control.",
+                "I'm feeling like I'm going to have a panic attack.",
+                "I'm feeling like my thoughts are racing and I can't slow them down.",
+                "I'm feeling like I'm constantly on edge and can't relax.",
+                "I'm feeling like I'm trapped and can't escape."
+            ],
+            "responses": [
+                "Feeling Good: The New Mood Therapy by David D. Burns",
+                "The Anxiety and Phobia Workbook by Edmund J. Bourne",
+                "The Worry Cure: Seven Steps to Stop Worry from Stopping You by Robert L. Leahy",
+                "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy by John P. Forsyth and Georg H. Eifert"
+            ]
+        },
+        {
+            "tag": "sleep",
+            "patterns": [
+                "I have insominia",
+                "I am suffering from insomnia",
+                "I can't sleep.",
+                "I haven't slept for the last days.",
+                "I can't seem to go to sleep.",
+                "I haven't had proper sleep for the past few days."
+            ],
+            "responses": [
+                "Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker",
+                "The Sleep Revolution: Transforming Your Life, One Night at a Time by Arianna Huffington",
+                "The Power of When: Discover Your Chronotype--and the Best Time to Eat Lunch, Ask for a Raise, Have Sex, Write a Novel, Take Your Meds, and More by Michael Breus",
+                "Sleep Smarter: 21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success by Shawn Stevenson"
+            ]
+        },
+        {
+            "tag": "scared",
+            "patterns": [
+                "I'm scared",
+                "That sounds awful. What do i do?",
+                "No i don't want to feel this way",
+                "I am scared for myself",
+                "I'm feeling really scared right now and don't know what to do.",
+                "I'm feeling like I'm in danger.",
+                "I'm feeling like something bad is going to happen.",
+                "I'm feeling like I'm not safe.",
+                "I'm feeling like I'm being watched or followed.",
+                "I'm feeling like my heart is racing and I can't catch my breath.",
+                "I'm feeling like I'm in a nightmare that I can't wake up from.",
+                "I'm feeling like I'm going to die.",
+                "I'm feeling like I'm paralyzed and can't move.",
+                "I'm feeling like I'm not in control of the situation."
+            ],
+            "responses": [
+                "The Gift of Fear: And Other Survival Signals That Protect Us from Violence by Gavin de Becker",
+                "Feel the Fear and Do It Anyway by Susan Jeffers",
+                "The Anxiety Survival Guide for Teens: CBT Skills to Overcome Fear, Worry, and Panic by Jennifer Shannon",
+                "The Science of Fear: How the Culture of Fear Manipulates Your Brain by Daniel Gardner"
+            ]
+        },
+        {
+            "tag": "death",
+            "patterns": [
+                "My mom died",
+                "My brother died",
+                "My dad passed away",
+                "My sister passed away",
+                "Someone in my family died",
+                "My friend passed away"
+            ],
+            "responses": [
+                "The Year of Magical Thinking by Joan Didion",
+                "When Breath Becomes Air by Paul Kalanithi",
+                "Being Mortal: Medicine and What Matters in the End by Atul Gawande",
+                "The Death of Ivan Ilyich by Leo Tolstoy"
+            ]
+        },
+        {
+            "tag": "suicide",
+            "patterns": [
+                "I want to kill myself",
+                "I've thought about killing myself.",
+                "I want to die",
+                "I am going to kill myself",
+                "I am going to commit suicide",
+                "I'm feeling like I don't want to live anymore.",
+                "I'm feeling like there's no point in going on.",
+                "I'm feeling like everyone would be better off without me.",
+                "I'm feeling like I'm a burden to everyone around me.",
+                "I'm feeling like there's no hope for the future.",
+                "I'm feeling like I'm trapped and can't escape my pain.",
+                "I'm feeling like I'm in so much emotional pain that I can't handle it.",
+                "I'm feeling like I don't have anything to live for.",
+                "I'm feeling like suicide is the only way out.",
+                "I'm feeling like I'm so overwhelmed that I can't go on."
+            ],
+            "responses": [
+                "Reasons to Stay Alive by Matt Haig",
+                "The Happiness Trap: How to Stop Struggling and Start Living: A Guide to ACT by Russ Harris",
+                "The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time by Alex Korb",
+                "How to Be Happy (Or at Least Less Sad): A Creative Workbook by Lee Crutchley",
+                "You Can Heal Your Life by Louise Hay",
+                "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead by Brene Brown",
+                "Lost Connections: Uncovering the Real Causes of Depression and the Unexpected Solutions by Johann Hari"
+            ]
+        }
+    ]
+}
