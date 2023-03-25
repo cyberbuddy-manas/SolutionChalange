@@ -16,7 +16,13 @@
                 "I'm struggling to find a sense of belonging and feel like I don't fit in anywhere.",
                 "It's hard to motivate myself to do anything when I feel so lonely.",
                 "I'm longing for a sense of community and the support that comes with it.",
-                "I'm feeling like I'm stuck in a cycle of loneliness that's hard to break out of."
+                "I'm feeling like I'm stuck in a cycle of loneliness that's hard to break out of.",
+                "I feel like nobody cares about me",
+                "I feel like I'm on my own",
+                "I wish I had someone to share this with",
+                "I feel disconnected from everyone",
+                "I feel like I don't belong",
+                "I feel like I have no one to talk to"
             ],
             "responses": [
                 "The Lonely City: Adventures in the Art of Being Alone by Olivia Laing",
@@ -45,7 +51,13 @@
                 "I'm so tired and burned out that I can't seem to find any motivation.",
                 "I'm feeling stuck and like there's no way out of this situation.",
                 "I'm completely overwhelmed by the challenges in my life right now.",
-                "I'm feeling hopeless and can't seem to see the light at the end of the tunnel."
+                "I'm feeling hopeless and can't seem to see the light at the end of the tunnel.",
+                "I can't handle this right now",
+                "I feel like everything is happening at once",
+                "I'm at my breaking point",
+                "I feel like I can't catch a break",
+                "I feel like I'm in a constant state of chaos",
+                "I don't know how to handle all of this"
             ],
             "responses": [
                 "The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle",
@@ -76,7 +88,13 @@
                 "I feel like I'm stuck in a rut and can't seem to get out of it.",
                 "I'm feeling a deep sense of loss and sadness that's hard to put into words.",
                 "I am sad",
-                "I feel empty"
+                "I feel empty",
+                "I'm really down right now",
+                "I'm feeling blue",
+                "I'm feeling a bit emotional",
+                "I'm having a tough time right now",
+                "I'm feeling overwhelmed by sadness",
+                "I'm struggling to keep it together"
             ],
             "responses": [
                 "The Noonday Demon: An Atlas of Depression by Andrew Solomon",
@@ -94,7 +112,14 @@
                 "I'm not myself lately and feel really sad.",
                 "I'm feeling blue and can't seem to find any joy.",
                 "I'm feeling really emotional and don't know why.",
-                "I'm feeling heartbroken and can't stop crying."
+                "I'm feeling heartbroken and can't stop crying.",
+                "I'm having a hard time shaking off this feeling",
+                "I feel like I'm in a dark place",
+                "I'm struggling to cope right now",
+                "I'm feeling really down in the dumps",
+                "I feel like crying",
+                "I'm not doing okay",
+                "I'm not feeling like myself lately"
             ],
             "responses": [
                 "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma by Bessel van der Kolk",
@@ -109,7 +134,9 @@
                 "I'm feeling burnt out and exhausted from work.",
                 "I'm struggling to cope with everything that's going on.",
                 "I'm feeling like I have too much on my plate.",
-                "I'm feeling like I can't keep up with everything."
+                "I'm feeling like I can't keep up with everything.",
+                "I'm not getting the support I need at work",
+                "I'm having a hard time balancing work and my personal life"
             ],
             "responses": [
                 "The 5 AM Club: Own Your Morning, Elevate Your Life by Robin Sharma",
@@ -123,7 +150,14 @@
             "patterns": [
                 "I'm so stressed out about my exams.",
                 "I have so many assignments due and not enough time to complete them.",
-                "I'm feeling overwhelmed with schoolwork."
+                "I'm feeling overwhelmed with schoolwork.",
+                "I feel like I'm falling behind in my classes",
+                "I have too much to do for school right now",
+                "I'm feeling like I'm losing motivation",
+                "I'm feeling like I'm not making progress",
+                "I'm feeling like I'm not smart enough",
+                "I'm feeling a lot of pressure to succeed",
+                "I'm feeling really anxious about my grades"
             ],
             "responses": [
                 "How to Read a Book by Mortimer Adler and Charles Van Doren",
@@ -137,7 +171,19 @@
             "patterns": [
                 "I'm stressed out about my relationship with my partner/friend/family member.",
                 "I'm having trouble communicating with my partner/friend/family member.",
-                "I'm feeling like I'm not being heard or understood by my partner/friend/family member."
+                "I'm feeling like I'm not being heard or understood by my partner/friend/family member.",
+                "We've been arguing a lot lately",
+                "I'm feeling really distant from my partner",
+                "I don't feel like we're on the same page anymore",
+                "I'm feeling really frustrated with our communication",
+                "I'm feeling like my needs are not being met in this relationship",
+                "I'm feeling like we're growing apart",
+                "I'm feeling like I'm not sure if this relationship is working",
+                "I'm feeling really overwhelmed with our relationship issues",
+                "I'm feeling like I'm not being heard in this relationship",
+                "I'm feeling like we're not spending enough time together",
+                "I'm feeling like I'm sacrificing too much for this relationship",
+                "I'm feeling like we're not working as a team"
             ],
             "responses": [
                 "Hold Me Tight: Seven Conversations for a Lifetime of Love  by Sue Johnson",
